@@ -1,0 +1,13 @@
+D:\RKIT\Module-2\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\netcoreapp3.1\OperatorsAndExpressions.exe
+D:\RKIT\Module-2\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\netcoreapp3.1\OperatorsAndExpressions.deps.json
+D:\RKIT\Module-2\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\netcoreapp3.1\OperatorsAndExpressions.runtimeconfig.json
+D:\RKIT\Module-2\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\netcoreapp3.1\OperatorsAndExpressions.runtimeconfig.dev.json
+D:\RKIT\Module-2\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\netcoreapp3.1\OperatorsAndExpressions.dll
+D:\RKIT\Module-2\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\netcoreapp3.1\OperatorsAndExpressions.pdb
+D:\RKIT\Module-2\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\netcoreapp3.1\OperatorsAndExpressions.csprojAssemblyReference.cache
+D:\RKIT\Module-2\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\netcoreapp3.1\OperatorsAndExpressions.AssemblyInfoInputs.cache
+D:\RKIT\Module-2\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\netcoreapp3.1\OperatorsAndExpressions.AssemblyInfo.cs
+D:\RKIT\Module-2\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\netcoreapp3.1\OperatorsAndExpressions.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-2\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\netcoreapp3.1\OperatorsAndExpressions.dll
+D:\RKIT\Module-2\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\netcoreapp3.1\OperatorsAndExpressions.pdb
+D:\RKIT\Module-2\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\netcoreapp3.1\OperatorsAndExpressions.genruntimeconfig.cache

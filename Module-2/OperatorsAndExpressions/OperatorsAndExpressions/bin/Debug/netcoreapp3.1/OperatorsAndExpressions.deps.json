@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OperatorsAndExpressions/1.0.0": {
+        "runtime": {
+          "OperatorsAndExpressions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OperatorsAndExpressions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
