@@ -1,0 +1,13 @@
+D:\RKIT\Module-2\String_Methods_Demo\String_Methods_Demo\bin\Debug\netcoreapp3.1\String_Methods_Demo.exe
+D:\RKIT\Module-2\String_Methods_Demo\String_Methods_Demo\bin\Debug\netcoreapp3.1\String_Methods_Demo.deps.json
+D:\RKIT\Module-2\String_Methods_Demo\String_Methods_Demo\bin\Debug\netcoreapp3.1\String_Methods_Demo.runtimeconfig.json
+D:\RKIT\Module-2\String_Methods_Demo\String_Methods_Demo\bin\Debug\netcoreapp3.1\String_Methods_Demo.runtimeconfig.dev.json
+D:\RKIT\Module-2\String_Methods_Demo\String_Methods_Demo\bin\Debug\netcoreapp3.1\String_Methods_Demo.dll
+D:\RKIT\Module-2\String_Methods_Demo\String_Methods_Demo\bin\Debug\netcoreapp3.1\String_Methods_Demo.pdb
+D:\RKIT\Module-2\String_Methods_Demo\String_Methods_Demo\obj\Debug\netcoreapp3.1\String_Methods_Demo.csprojAssemblyReference.cache
+D:\RKIT\Module-2\String_Methods_Demo\String_Methods_Demo\obj\Debug\netcoreapp3.1\String_Methods_Demo.AssemblyInfoInputs.cache
+D:\RKIT\Module-2\String_Methods_Demo\String_Methods_Demo\obj\Debug\netcoreapp3.1\String_Methods_Demo.AssemblyInfo.cs
+D:\RKIT\Module-2\String_Methods_Demo\String_Methods_Demo\obj\Debug\netcoreapp3.1\String_Methods_Demo.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-2\String_Methods_Demo\String_Methods_Demo\obj\Debug\netcoreapp3.1\String_Methods_Demo.dll
+D:\RKIT\Module-2\String_Methods_Demo\String_Methods_Demo\obj\Debug\netcoreapp3.1\String_Methods_Demo.pdb
+D:\RKIT\Module-2\String_Methods_Demo\String_Methods_Demo\obj\Debug\netcoreapp3.1\String_Methods_Demo.genruntimeconfig.cache
