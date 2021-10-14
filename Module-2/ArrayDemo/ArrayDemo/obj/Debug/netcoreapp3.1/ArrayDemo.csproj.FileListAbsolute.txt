@@ -1,0 +1,13 @@
+D:\RKIT\Module-2\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.exe
+D:\RKIT\Module-2\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.deps.json
+D:\RKIT\Module-2\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.runtimeconfig.json
+D:\RKIT\Module-2\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.runtimeconfig.dev.json
+D:\RKIT\Module-2\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.dll
+D:\RKIT\Module-2\ArrayDemo\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.pdb
+D:\RKIT\Module-2\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.csprojAssemblyReference.cache
+D:\RKIT\Module-2\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.AssemblyInfoInputs.cache
+D:\RKIT\Module-2\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.AssemblyInfo.cs
+D:\RKIT\Module-2\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-2\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.dll
+D:\RKIT\Module-2\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.pdb
+D:\RKIT\Module-2\ArrayDemo\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.genruntimeconfig.cache
