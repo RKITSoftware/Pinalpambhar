@@ -1,0 +1,13 @@
+D:\RKIT\Module-2\Loop_Iteration_Demos\Loop_Iteration_Demos\bin\Debug\netcoreapp3.1\Loop_Iteration_Demos.exe
+D:\RKIT\Module-2\Loop_Iteration_Demos\Loop_Iteration_Demos\bin\Debug\netcoreapp3.1\Loop_Iteration_Demos.deps.json
+D:\RKIT\Module-2\Loop_Iteration_Demos\Loop_Iteration_Demos\bin\Debug\netcoreapp3.1\Loop_Iteration_Demos.runtimeconfig.json
+D:\RKIT\Module-2\Loop_Iteration_Demos\Loop_Iteration_Demos\bin\Debug\netcoreapp3.1\Loop_Iteration_Demos.runtimeconfig.dev.json
+D:\RKIT\Module-2\Loop_Iteration_Demos\Loop_Iteration_Demos\bin\Debug\netcoreapp3.1\Loop_Iteration_Demos.dll
+D:\RKIT\Module-2\Loop_Iteration_Demos\Loop_Iteration_Demos\bin\Debug\netcoreapp3.1\Loop_Iteration_Demos.pdb
+D:\RKIT\Module-2\Loop_Iteration_Demos\Loop_Iteration_Demos\obj\Debug\netcoreapp3.1\Loop_Iteration_Demos.csprojAssemblyReference.cache
+D:\RKIT\Module-2\Loop_Iteration_Demos\Loop_Iteration_Demos\obj\Debug\netcoreapp3.1\Loop_Iteration_Demos.AssemblyInfoInputs.cache
+D:\RKIT\Module-2\Loop_Iteration_Demos\Loop_Iteration_Demos\obj\Debug\netcoreapp3.1\Loop_Iteration_Demos.AssemblyInfo.cs
+D:\RKIT\Module-2\Loop_Iteration_Demos\Loop_Iteration_Demos\obj\Debug\netcoreapp3.1\Loop_Iteration_Demos.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-2\Loop_Iteration_Demos\Loop_Iteration_Demos\obj\Debug\netcoreapp3.1\Loop_Iteration_Demos.dll
+D:\RKIT\Module-2\Loop_Iteration_Demos\Loop_Iteration_Demos\obj\Debug\netcoreapp3.1\Loop_Iteration_Demos.pdb
+D:\RKIT\Module-2\Loop_Iteration_Demos\Loop_Iteration_Demos\obj\Debug\netcoreapp3.1\Loop_Iteration_Demos.genruntimeconfig.cache
