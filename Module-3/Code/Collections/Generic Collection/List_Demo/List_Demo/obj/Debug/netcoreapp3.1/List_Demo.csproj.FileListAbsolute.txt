@@ -1,0 +1,13 @@
+D:\RKIT\Module-3\Code\Collections\Generic Collection\List_Demo\List_Demo\bin\Debug\netcoreapp3.1\List_Demo.exe
+D:\RKIT\Module-3\Code\Collections\Generic Collection\List_Demo\List_Demo\bin\Debug\netcoreapp3.1\List_Demo.deps.json
+D:\RKIT\Module-3\Code\Collections\Generic Collection\List_Demo\List_Demo\bin\Debug\netcoreapp3.1\List_Demo.runtimeconfig.json
+D:\RKIT\Module-3\Code\Collections\Generic Collection\List_Demo\List_Demo\bin\Debug\netcoreapp3.1\List_Demo.runtimeconfig.dev.json
+D:\RKIT\Module-3\Code\Collections\Generic Collection\List_Demo\List_Demo\bin\Debug\netcoreapp3.1\List_Demo.dll
+D:\RKIT\Module-3\Code\Collections\Generic Collection\List_Demo\List_Demo\bin\Debug\netcoreapp3.1\List_Demo.pdb
+D:\RKIT\Module-3\Code\Collections\Generic Collection\List_Demo\List_Demo\obj\Debug\netcoreapp3.1\List_Demo.csprojAssemblyReference.cache
+D:\RKIT\Module-3\Code\Collections\Generic Collection\List_Demo\List_Demo\obj\Debug\netcoreapp3.1\List_Demo.AssemblyInfoInputs.cache
+D:\RKIT\Module-3\Code\Collections\Generic Collection\List_Demo\List_Demo\obj\Debug\netcoreapp3.1\List_Demo.AssemblyInfo.cs
+D:\RKIT\Module-3\Code\Collections\Generic Collection\List_Demo\List_Demo\obj\Debug\netcoreapp3.1\List_Demo.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-3\Code\Collections\Generic Collection\List_Demo\List_Demo\obj\Debug\netcoreapp3.1\List_Demo.dll
+D:\RKIT\Module-3\Code\Collections\Generic Collection\List_Demo\List_Demo\obj\Debug\netcoreapp3.1\List_Demo.pdb
+D:\RKIT\Module-3\Code\Collections\Generic Collection\List_Demo\List_Demo\obj\Debug\netcoreapp3.1\List_Demo.genruntimeconfig.cache
