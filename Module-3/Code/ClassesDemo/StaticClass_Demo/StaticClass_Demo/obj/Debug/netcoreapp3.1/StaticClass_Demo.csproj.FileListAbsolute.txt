@@ -1,0 +1,13 @@
+D:\RKIT\Module-3\Code\ClassesDemo\StaticClass_Demo\StaticClass_Demo\bin\Debug\netcoreapp3.1\StaticClass_Demo.exe
+D:\RKIT\Module-3\Code\ClassesDemo\StaticClass_Demo\StaticClass_Demo\bin\Debug\netcoreapp3.1\StaticClass_Demo.deps.json
+D:\RKIT\Module-3\Code\ClassesDemo\StaticClass_Demo\StaticClass_Demo\bin\Debug\netcoreapp3.1\StaticClass_Demo.runtimeconfig.json
+D:\RKIT\Module-3\Code\ClassesDemo\StaticClass_Demo\StaticClass_Demo\bin\Debug\netcoreapp3.1\StaticClass_Demo.runtimeconfig.dev.json
+D:\RKIT\Module-3\Code\ClassesDemo\StaticClass_Demo\StaticClass_Demo\bin\Debug\netcoreapp3.1\StaticClass_Demo.dll
+D:\RKIT\Module-3\Code\ClassesDemo\StaticClass_Demo\StaticClass_Demo\bin\Debug\netcoreapp3.1\StaticClass_Demo.pdb
+D:\RKIT\Module-3\Code\ClassesDemo\StaticClass_Demo\StaticClass_Demo\obj\Debug\netcoreapp3.1\StaticClass_Demo.csprojAssemblyReference.cache
+D:\RKIT\Module-3\Code\ClassesDemo\StaticClass_Demo\StaticClass_Demo\obj\Debug\netcoreapp3.1\StaticClass_Demo.AssemblyInfoInputs.cache
+D:\RKIT\Module-3\Code\ClassesDemo\StaticClass_Demo\StaticClass_Demo\obj\Debug\netcoreapp3.1\StaticClass_Demo.AssemblyInfo.cs
+D:\RKIT\Module-3\Code\ClassesDemo\StaticClass_Demo\StaticClass_Demo\obj\Debug\netcoreapp3.1\StaticClass_Demo.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-3\Code\ClassesDemo\StaticClass_Demo\StaticClass_Demo\obj\Debug\netcoreapp3.1\StaticClass_Demo.dll
+D:\RKIT\Module-3\Code\ClassesDemo\StaticClass_Demo\StaticClass_Demo\obj\Debug\netcoreapp3.1\StaticClass_Demo.pdb
+D:\RKIT\Module-3\Code\ClassesDemo\StaticClass_Demo\StaticClass_Demo\obj\Debug\netcoreapp3.1\StaticClass_Demo.genruntimeconfig.cache
