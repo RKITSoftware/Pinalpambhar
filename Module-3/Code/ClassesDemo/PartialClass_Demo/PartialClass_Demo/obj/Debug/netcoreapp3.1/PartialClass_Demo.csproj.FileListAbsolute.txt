@@ -1,0 +1,13 @@
+D:\RKIT\Module-3\Code\ClassesDemo\PartialClass_Demo\PartialClass_Demo\bin\Debug\netcoreapp3.1\PartialClass_Demo.exe
+D:\RKIT\Module-3\Code\ClassesDemo\PartialClass_Demo\PartialClass_Demo\bin\Debug\netcoreapp3.1\PartialClass_Demo.deps.json
+D:\RKIT\Module-3\Code\ClassesDemo\PartialClass_Demo\PartialClass_Demo\bin\Debug\netcoreapp3.1\PartialClass_Demo.runtimeconfig.json
+D:\RKIT\Module-3\Code\ClassesDemo\PartialClass_Demo\PartialClass_Demo\bin\Debug\netcoreapp3.1\PartialClass_Demo.runtimeconfig.dev.json
+D:\RKIT\Module-3\Code\ClassesDemo\PartialClass_Demo\PartialClass_Demo\bin\Debug\netcoreapp3.1\PartialClass_Demo.dll
+D:\RKIT\Module-3\Code\ClassesDemo\PartialClass_Demo\PartialClass_Demo\bin\Debug\netcoreapp3.1\PartialClass_Demo.pdb
+D:\RKIT\Module-3\Code\ClassesDemo\PartialClass_Demo\PartialClass_Demo\obj\Debug\netcoreapp3.1\PartialClass_Demo.csprojAssemblyReference.cache
+D:\RKIT\Module-3\Code\ClassesDemo\PartialClass_Demo\PartialClass_Demo\obj\Debug\netcoreapp3.1\PartialClass_Demo.AssemblyInfoInputs.cache
+D:\RKIT\Module-3\Code\ClassesDemo\PartialClass_Demo\PartialClass_Demo\obj\Debug\netcoreapp3.1\PartialClass_Demo.AssemblyInfo.cs
+D:\RKIT\Module-3\Code\ClassesDemo\PartialClass_Demo\PartialClass_Demo\obj\Debug\netcoreapp3.1\PartialClass_Demo.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-3\Code\ClassesDemo\PartialClass_Demo\PartialClass_Demo\obj\Debug\netcoreapp3.1\PartialClass_Demo.dll
+D:\RKIT\Module-3\Code\ClassesDemo\PartialClass_Demo\PartialClass_Demo\obj\Debug\netcoreapp3.1\PartialClass_Demo.pdb
+D:\RKIT\Module-3\Code\ClassesDemo\PartialClass_Demo\PartialClass_Demo\obj\Debug\netcoreapp3.1\PartialClass_Demo.genruntimeconfig.cache
