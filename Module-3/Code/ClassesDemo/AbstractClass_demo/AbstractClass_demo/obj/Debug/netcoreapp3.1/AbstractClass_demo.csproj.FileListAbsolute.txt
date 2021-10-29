@@ -1,0 +1,13 @@
+D:\RKIT\Module-3\Code\ClassesDemo\AbstractClass_demo\AbstractClass_demo\bin\Debug\netcoreapp3.1\AbstractClass_demo.exe
+D:\RKIT\Module-3\Code\ClassesDemo\AbstractClass_demo\AbstractClass_demo\bin\Debug\netcoreapp3.1\AbstractClass_demo.deps.json
+D:\RKIT\Module-3\Code\ClassesDemo\AbstractClass_demo\AbstractClass_demo\bin\Debug\netcoreapp3.1\AbstractClass_demo.runtimeconfig.json
+D:\RKIT\Module-3\Code\ClassesDemo\AbstractClass_demo\AbstractClass_demo\bin\Debug\netcoreapp3.1\AbstractClass_demo.runtimeconfig.dev.json
+D:\RKIT\Module-3\Code\ClassesDemo\AbstractClass_demo\AbstractClass_demo\bin\Debug\netcoreapp3.1\AbstractClass_demo.dll
+D:\RKIT\Module-3\Code\ClassesDemo\AbstractClass_demo\AbstractClass_demo\bin\Debug\netcoreapp3.1\AbstractClass_demo.pdb
+D:\RKIT\Module-3\Code\ClassesDemo\AbstractClass_demo\AbstractClass_demo\obj\Debug\netcoreapp3.1\AbstractClass_demo.csprojAssemblyReference.cache
+D:\RKIT\Module-3\Code\ClassesDemo\AbstractClass_demo\AbstractClass_demo\obj\Debug\netcoreapp3.1\AbstractClass_demo.AssemblyInfoInputs.cache
+D:\RKIT\Module-3\Code\ClassesDemo\AbstractClass_demo\AbstractClass_demo\obj\Debug\netcoreapp3.1\AbstractClass_demo.AssemblyInfo.cs
+D:\RKIT\Module-3\Code\ClassesDemo\AbstractClass_demo\AbstractClass_demo\obj\Debug\netcoreapp3.1\AbstractClass_demo.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-3\Code\ClassesDemo\AbstractClass_demo\AbstractClass_demo\obj\Debug\netcoreapp3.1\AbstractClass_demo.dll
+D:\RKIT\Module-3\Code\ClassesDemo\AbstractClass_demo\AbstractClass_demo\obj\Debug\netcoreapp3.1\AbstractClass_demo.pdb
+D:\RKIT\Module-3\Code\ClassesDemo\AbstractClass_demo\AbstractClass_demo\obj\Debug\netcoreapp3.1\AbstractClass_demo.genruntimeconfig.cache
