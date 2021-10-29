@@ -1,0 +1,13 @@
+D:\RKIT\Module-3\Code\Collections\Generic Collection\SortedList_Demo\SortedList_Demo\bin\Debug\netcoreapp3.1\SortedList_Demo.exe
+D:\RKIT\Module-3\Code\Collections\Generic Collection\SortedList_Demo\SortedList_Demo\bin\Debug\netcoreapp3.1\SortedList_Demo.deps.json
+D:\RKIT\Module-3\Code\Collections\Generic Collection\SortedList_Demo\SortedList_Demo\bin\Debug\netcoreapp3.1\SortedList_Demo.runtimeconfig.json
+D:\RKIT\Module-3\Code\Collections\Generic Collection\SortedList_Demo\SortedList_Demo\bin\Debug\netcoreapp3.1\SortedList_Demo.runtimeconfig.dev.json
+D:\RKIT\Module-3\Code\Collections\Generic Collection\SortedList_Demo\SortedList_Demo\bin\Debug\netcoreapp3.1\SortedList_Demo.dll
+D:\RKIT\Module-3\Code\Collections\Generic Collection\SortedList_Demo\SortedList_Demo\bin\Debug\netcoreapp3.1\SortedList_Demo.pdb
+D:\RKIT\Module-3\Code\Collections\Generic Collection\SortedList_Demo\SortedList_Demo\obj\Debug\netcoreapp3.1\SortedList_Demo.csprojAssemblyReference.cache
+D:\RKIT\Module-3\Code\Collections\Generic Collection\SortedList_Demo\SortedList_Demo\obj\Debug\netcoreapp3.1\SortedList_Demo.AssemblyInfoInputs.cache
+D:\RKIT\Module-3\Code\Collections\Generic Collection\SortedList_Demo\SortedList_Demo\obj\Debug\netcoreapp3.1\SortedList_Demo.AssemblyInfo.cs
+D:\RKIT\Module-3\Code\Collections\Generic Collection\SortedList_Demo\SortedList_Demo\obj\Debug\netcoreapp3.1\SortedList_Demo.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-3\Code\Collections\Generic Collection\SortedList_Demo\SortedList_Demo\obj\Debug\netcoreapp3.1\SortedList_Demo.dll
+D:\RKIT\Module-3\Code\Collections\Generic Collection\SortedList_Demo\SortedList_Demo\obj\Debug\netcoreapp3.1\SortedList_Demo.pdb
+D:\RKIT\Module-3\Code\Collections\Generic Collection\SortedList_Demo\SortedList_Demo\obj\Debug\netcoreapp3.1\SortedList_Demo.genruntimeconfig.cache
