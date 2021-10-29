@@ -1,0 +1,13 @@
+D:\RKIT\Module-3\Code\Properties_Demo\Properties_Demo\bin\Debug\netcoreapp3.1\Properties_Demo.exe
+D:\RKIT\Module-3\Code\Properties_Demo\Properties_Demo\bin\Debug\netcoreapp3.1\Properties_Demo.deps.json
+D:\RKIT\Module-3\Code\Properties_Demo\Properties_Demo\bin\Debug\netcoreapp3.1\Properties_Demo.runtimeconfig.json
+D:\RKIT\Module-3\Code\Properties_Demo\Properties_Demo\bin\Debug\netcoreapp3.1\Properties_Demo.runtimeconfig.dev.json
+D:\RKIT\Module-3\Code\Properties_Demo\Properties_Demo\bin\Debug\netcoreapp3.1\Properties_Demo.dll
+D:\RKIT\Module-3\Code\Properties_Demo\Properties_Demo\bin\Debug\netcoreapp3.1\Properties_Demo.pdb
+D:\RKIT\Module-3\Code\Properties_Demo\Properties_Demo\obj\Debug\netcoreapp3.1\Properties_Demo.csprojAssemblyReference.cache
+D:\RKIT\Module-3\Code\Properties_Demo\Properties_Demo\obj\Debug\netcoreapp3.1\Properties_Demo.AssemblyInfoInputs.cache
+D:\RKIT\Module-3\Code\Properties_Demo\Properties_Demo\obj\Debug\netcoreapp3.1\Properties_Demo.AssemblyInfo.cs
+D:\RKIT\Module-3\Code\Properties_Demo\Properties_Demo\obj\Debug\netcoreapp3.1\Properties_Demo.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-3\Code\Properties_Demo\Properties_Demo\obj\Debug\netcoreapp3.1\Properties_Demo.dll
+D:\RKIT\Module-3\Code\Properties_Demo\Properties_Demo\obj\Debug\netcoreapp3.1\Properties_Demo.pdb
+D:\RKIT\Module-3\Code\Properties_Demo\Properties_Demo\obj\Debug\netcoreapp3.1\Properties_Demo.genruntimeconfig.cache
