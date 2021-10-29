@@ -1,0 +1,13 @@
+D:\RKIT\Module-3\Code\AccessModifiers\PrivateProtectedAccessModifier\PrivateProtectedAccessModifier\bin\Debug\netcoreapp3.1\PrivateProtectedAccessModifier.exe
+D:\RKIT\Module-3\Code\AccessModifiers\PrivateProtectedAccessModifier\PrivateProtectedAccessModifier\bin\Debug\netcoreapp3.1\PrivateProtectedAccessModifier.deps.json
+D:\RKIT\Module-3\Code\AccessModifiers\PrivateProtectedAccessModifier\PrivateProtectedAccessModifier\bin\Debug\netcoreapp3.1\PrivateProtectedAccessModifier.runtimeconfig.json
+D:\RKIT\Module-3\Code\AccessModifiers\PrivateProtectedAccessModifier\PrivateProtectedAccessModifier\bin\Debug\netcoreapp3.1\PrivateProtectedAccessModifier.runtimeconfig.dev.json
+D:\RKIT\Module-3\Code\AccessModifiers\PrivateProtectedAccessModifier\PrivateProtectedAccessModifier\bin\Debug\netcoreapp3.1\PrivateProtectedAccessModifier.dll
+D:\RKIT\Module-3\Code\AccessModifiers\PrivateProtectedAccessModifier\PrivateProtectedAccessModifier\bin\Debug\netcoreapp3.1\PrivateProtectedAccessModifier.pdb
+D:\RKIT\Module-3\Code\AccessModifiers\PrivateProtectedAccessModifier\PrivateProtectedAccessModifier\obj\Debug\netcoreapp3.1\PrivateProtectedAccessModifier.csprojAssemblyReference.cache
+D:\RKIT\Module-3\Code\AccessModifiers\PrivateProtectedAccessModifier\PrivateProtectedAccessModifier\obj\Debug\netcoreapp3.1\PrivateProtectedAccessModifier.AssemblyInfoInputs.cache
+D:\RKIT\Module-3\Code\AccessModifiers\PrivateProtectedAccessModifier\PrivateProtectedAccessModifier\obj\Debug\netcoreapp3.1\PrivateProtectedAccessModifier.AssemblyInfo.cs
+D:\RKIT\Module-3\Code\AccessModifiers\PrivateProtectedAccessModifier\PrivateProtectedAccessModifier\obj\Debug\netcoreapp3.1\PrivateProtectedAccessModifier.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-3\Code\AccessModifiers\PrivateProtectedAccessModifier\PrivateProtectedAccessModifier\obj\Debug\netcoreapp3.1\PrivateProtectedAccessModifier.dll
+D:\RKIT\Module-3\Code\AccessModifiers\PrivateProtectedAccessModifier\PrivateProtectedAccessModifier\obj\Debug\netcoreapp3.1\PrivateProtectedAccessModifier.pdb
+D:\RKIT\Module-3\Code\AccessModifiers\PrivateProtectedAccessModifier\PrivateProtectedAccessModifier\obj\Debug\netcoreapp3.1\PrivateProtectedAccessModifier.genruntimeconfig.cache
