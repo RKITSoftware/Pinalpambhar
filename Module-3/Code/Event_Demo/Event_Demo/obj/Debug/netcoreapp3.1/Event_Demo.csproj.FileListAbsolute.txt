@@ -1,0 +1,13 @@
+D:\RKIT\Module-3\Code\Event_Demo\Event_Demo\bin\Debug\netcoreapp3.1\Event_Demo.exe
+D:\RKIT\Module-3\Code\Event_Demo\Event_Demo\bin\Debug\netcoreapp3.1\Event_Demo.deps.json
+D:\RKIT\Module-3\Code\Event_Demo\Event_Demo\bin\Debug\netcoreapp3.1\Event_Demo.runtimeconfig.json
+D:\RKIT\Module-3\Code\Event_Demo\Event_Demo\bin\Debug\netcoreapp3.1\Event_Demo.runtimeconfig.dev.json
+D:\RKIT\Module-3\Code\Event_Demo\Event_Demo\bin\Debug\netcoreapp3.1\Event_Demo.dll
+D:\RKIT\Module-3\Code\Event_Demo\Event_Demo\bin\Debug\netcoreapp3.1\Event_Demo.pdb
+D:\RKIT\Module-3\Code\Event_Demo\Event_Demo\obj\Debug\netcoreapp3.1\Event_Demo.csprojAssemblyReference.cache
+D:\RKIT\Module-3\Code\Event_Demo\Event_Demo\obj\Debug\netcoreapp3.1\Event_Demo.AssemblyInfoInputs.cache
+D:\RKIT\Module-3\Code\Event_Demo\Event_Demo\obj\Debug\netcoreapp3.1\Event_Demo.AssemblyInfo.cs
+D:\RKIT\Module-3\Code\Event_Demo\Event_Demo\obj\Debug\netcoreapp3.1\Event_Demo.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-3\Code\Event_Demo\Event_Demo\obj\Debug\netcoreapp3.1\Event_Demo.dll
+D:\RKIT\Module-3\Code\Event_Demo\Event_Demo\obj\Debug\netcoreapp3.1\Event_Demo.pdb
+D:\RKIT\Module-3\Code\Event_Demo\Event_Demo\obj\Debug\netcoreapp3.1\Event_Demo.genruntimeconfig.cache
