@@ -1,0 +1,13 @@
+D:\RKIT\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\bin\Debug\WindowsFormsApp_Calculator.exe.config
+D:\RKIT\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\bin\Debug\WindowsFormsApp_Calculator.exe
+D:\RKIT\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\bin\Debug\WindowsFormsApp_Calculator.pdb
+D:\RKIT\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\bin\Debug\ClassLibrary_Calculator.dll
+D:\RKIT\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\bin\Debug\ClassLibrary_Calculator.pdb
+D:\RKIT\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.csprojAssemblyReference.cache
+D:\RKIT\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.FormCalculator.resources
+D:\RKIT\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.Properties.Resources.resources
+D:\RKIT\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.csproj.GenerateResource.cache
+D:\RKIT\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.csproj.CoreCompileInputs.cache
+D:\RKIT\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.csproj.CopyComplete
+D:\RKIT\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.exe
+D:\RKIT\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.pdb
