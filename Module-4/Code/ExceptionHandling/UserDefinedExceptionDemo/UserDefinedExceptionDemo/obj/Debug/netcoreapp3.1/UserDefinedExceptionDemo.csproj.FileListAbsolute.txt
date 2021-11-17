@@ -1,0 +1,13 @@
+D:\RKIT\Module-4\Code\ExceptionHandling\UserDefinedExceptionDemo\UserDefinedExceptionDemo\bin\Debug\netcoreapp3.1\UserDefinedExceptionDemo.exe
+D:\RKIT\Module-4\Code\ExceptionHandling\UserDefinedExceptionDemo\UserDefinedExceptionDemo\bin\Debug\netcoreapp3.1\UserDefinedExceptionDemo.deps.json
+D:\RKIT\Module-4\Code\ExceptionHandling\UserDefinedExceptionDemo\UserDefinedExceptionDemo\bin\Debug\netcoreapp3.1\UserDefinedExceptionDemo.runtimeconfig.json
+D:\RKIT\Module-4\Code\ExceptionHandling\UserDefinedExceptionDemo\UserDefinedExceptionDemo\bin\Debug\netcoreapp3.1\UserDefinedExceptionDemo.runtimeconfig.dev.json
+D:\RKIT\Module-4\Code\ExceptionHandling\UserDefinedExceptionDemo\UserDefinedExceptionDemo\bin\Debug\netcoreapp3.1\UserDefinedExceptionDemo.dll
+D:\RKIT\Module-4\Code\ExceptionHandling\UserDefinedExceptionDemo\UserDefinedExceptionDemo\bin\Debug\netcoreapp3.1\UserDefinedExceptionDemo.pdb
+D:\RKIT\Module-4\Code\ExceptionHandling\UserDefinedExceptionDemo\UserDefinedExceptionDemo\obj\Debug\netcoreapp3.1\UserDefinedExceptionDemo.csprojAssemblyReference.cache
+D:\RKIT\Module-4\Code\ExceptionHandling\UserDefinedExceptionDemo\UserDefinedExceptionDemo\obj\Debug\netcoreapp3.1\UserDefinedExceptionDemo.AssemblyInfoInputs.cache
+D:\RKIT\Module-4\Code\ExceptionHandling\UserDefinedExceptionDemo\UserDefinedExceptionDemo\obj\Debug\netcoreapp3.1\UserDefinedExceptionDemo.AssemblyInfo.cs
+D:\RKIT\Module-4\Code\ExceptionHandling\UserDefinedExceptionDemo\UserDefinedExceptionDemo\obj\Debug\netcoreapp3.1\UserDefinedExceptionDemo.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-4\Code\ExceptionHandling\UserDefinedExceptionDemo\UserDefinedExceptionDemo\obj\Debug\netcoreapp3.1\UserDefinedExceptionDemo.dll
+D:\RKIT\Module-4\Code\ExceptionHandling\UserDefinedExceptionDemo\UserDefinedExceptionDemo\obj\Debug\netcoreapp3.1\UserDefinedExceptionDemo.pdb
+D:\RKIT\Module-4\Code\ExceptionHandling\UserDefinedExceptionDemo\UserDefinedExceptionDemo\obj\Debug\netcoreapp3.1\UserDefinedExceptionDemo.genruntimeconfig.cache
