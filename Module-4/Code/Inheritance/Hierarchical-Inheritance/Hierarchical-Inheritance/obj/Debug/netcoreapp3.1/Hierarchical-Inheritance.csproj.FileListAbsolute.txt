@@ -1,0 +1,13 @@
+D:\RKIT\Module-4\Code\Inheritance\Hierarchical-Inheritance\Hierarchical-Inheritance\bin\Debug\netcoreapp3.1\Hierarchical-Inheritance.exe
+D:\RKIT\Module-4\Code\Inheritance\Hierarchical-Inheritance\Hierarchical-Inheritance\bin\Debug\netcoreapp3.1\Hierarchical-Inheritance.deps.json
+D:\RKIT\Module-4\Code\Inheritance\Hierarchical-Inheritance\Hierarchical-Inheritance\bin\Debug\netcoreapp3.1\Hierarchical-Inheritance.runtimeconfig.json
+D:\RKIT\Module-4\Code\Inheritance\Hierarchical-Inheritance\Hierarchical-Inheritance\bin\Debug\netcoreapp3.1\Hierarchical-Inheritance.runtimeconfig.dev.json
+D:\RKIT\Module-4\Code\Inheritance\Hierarchical-Inheritance\Hierarchical-Inheritance\bin\Debug\netcoreapp3.1\Hierarchical-Inheritance.dll
+D:\RKIT\Module-4\Code\Inheritance\Hierarchical-Inheritance\Hierarchical-Inheritance\bin\Debug\netcoreapp3.1\Hierarchical-Inheritance.pdb
+D:\RKIT\Module-4\Code\Inheritance\Hierarchical-Inheritance\Hierarchical-Inheritance\obj\Debug\netcoreapp3.1\Hierarchical-Inheritance.csprojAssemblyReference.cache
+D:\RKIT\Module-4\Code\Inheritance\Hierarchical-Inheritance\Hierarchical-Inheritance\obj\Debug\netcoreapp3.1\Hierarchical-Inheritance.AssemblyInfoInputs.cache
+D:\RKIT\Module-4\Code\Inheritance\Hierarchical-Inheritance\Hierarchical-Inheritance\obj\Debug\netcoreapp3.1\Hierarchical-Inheritance.AssemblyInfo.cs
+D:\RKIT\Module-4\Code\Inheritance\Hierarchical-Inheritance\Hierarchical-Inheritance\obj\Debug\netcoreapp3.1\Hierarchical-Inheritance.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-4\Code\Inheritance\Hierarchical-Inheritance\Hierarchical-Inheritance\obj\Debug\netcoreapp3.1\Hierarchical-Inheritance.dll
+D:\RKIT\Module-4\Code\Inheritance\Hierarchical-Inheritance\Hierarchical-Inheritance\obj\Debug\netcoreapp3.1\Hierarchical-Inheritance.pdb
+D:\RKIT\Module-4\Code\Inheritance\Hierarchical-Inheritance\Hierarchical-Inheritance\obj\Debug\netcoreapp3.1\Hierarchical-Inheritance.genruntimeconfig.cache
