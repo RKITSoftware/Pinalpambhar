@@ -1,0 +1,13 @@
+D:\RKIT\Module-4\Code\Inheritance\Single-Level_Inheritance\Single-Level_Inheritance\bin\Debug\netcoreapp3.1\Single-Level_Inheritance.exe
+D:\RKIT\Module-4\Code\Inheritance\Single-Level_Inheritance\Single-Level_Inheritance\bin\Debug\netcoreapp3.1\Single-Level_Inheritance.deps.json
+D:\RKIT\Module-4\Code\Inheritance\Single-Level_Inheritance\Single-Level_Inheritance\bin\Debug\netcoreapp3.1\Single-Level_Inheritance.runtimeconfig.json
+D:\RKIT\Module-4\Code\Inheritance\Single-Level_Inheritance\Single-Level_Inheritance\bin\Debug\netcoreapp3.1\Single-Level_Inheritance.runtimeconfig.dev.json
+D:\RKIT\Module-4\Code\Inheritance\Single-Level_Inheritance\Single-Level_Inheritance\bin\Debug\netcoreapp3.1\Single-Level_Inheritance.dll
+D:\RKIT\Module-4\Code\Inheritance\Single-Level_Inheritance\Single-Level_Inheritance\bin\Debug\netcoreapp3.1\Single-Level_Inheritance.pdb
+D:\RKIT\Module-4\Code\Inheritance\Single-Level_Inheritance\Single-Level_Inheritance\obj\Debug\netcoreapp3.1\Single-Level_Inheritance.csprojAssemblyReference.cache
+D:\RKIT\Module-4\Code\Inheritance\Single-Level_Inheritance\Single-Level_Inheritance\obj\Debug\netcoreapp3.1\Single-Level_Inheritance.AssemblyInfoInputs.cache
+D:\RKIT\Module-4\Code\Inheritance\Single-Level_Inheritance\Single-Level_Inheritance\obj\Debug\netcoreapp3.1\Single-Level_Inheritance.AssemblyInfo.cs
+D:\RKIT\Module-4\Code\Inheritance\Single-Level_Inheritance\Single-Level_Inheritance\obj\Debug\netcoreapp3.1\Single-Level_Inheritance.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-4\Code\Inheritance\Single-Level_Inheritance\Single-Level_Inheritance\obj\Debug\netcoreapp3.1\Single-Level_Inheritance.dll
+D:\RKIT\Module-4\Code\Inheritance\Single-Level_Inheritance\Single-Level_Inheritance\obj\Debug\netcoreapp3.1\Single-Level_Inheritance.pdb
+D:\RKIT\Module-4\Code\Inheritance\Single-Level_Inheritance\Single-Level_Inheritance\obj\Debug\netcoreapp3.1\Single-Level_Inheritance.genruntimeconfig.cache
