@@ -1,0 +1,13 @@
+D:\RKIT\Module-4\Code\Enumerations\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.exe
+D:\RKIT\Module-4\Code\Enumerations\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.deps.json
+D:\RKIT\Module-4\Code\Enumerations\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.runtimeconfig.json
+D:\RKIT\Module-4\Code\Enumerations\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.runtimeconfig.dev.json
+D:\RKIT\Module-4\Code\Enumerations\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.dll
+D:\RKIT\Module-4\Code\Enumerations\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.pdb
+D:\RKIT\Module-4\Code\Enumerations\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.csprojAssemblyReference.cache
+D:\RKIT\Module-4\Code\Enumerations\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.AssemblyInfoInputs.cache
+D:\RKIT\Module-4\Code\Enumerations\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.AssemblyInfo.cs
+D:\RKIT\Module-4\Code\Enumerations\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-4\Code\Enumerations\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.dll
+D:\RKIT\Module-4\Code\Enumerations\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.pdb
+D:\RKIT\Module-4\Code\Enumerations\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.genruntimeconfig.cache
