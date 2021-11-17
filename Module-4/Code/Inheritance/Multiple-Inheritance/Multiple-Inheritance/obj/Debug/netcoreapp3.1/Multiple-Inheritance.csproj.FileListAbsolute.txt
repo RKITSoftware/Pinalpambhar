@@ -1,0 +1,13 @@
+D:\RKIT\Module-4\Code\Inheritance\Multiple-Inheritance\Multiple-Inheritance\bin\Debug\netcoreapp3.1\Multiple-Inheritance.exe
+D:\RKIT\Module-4\Code\Inheritance\Multiple-Inheritance\Multiple-Inheritance\bin\Debug\netcoreapp3.1\Multiple-Inheritance.deps.json
+D:\RKIT\Module-4\Code\Inheritance\Multiple-Inheritance\Multiple-Inheritance\bin\Debug\netcoreapp3.1\Multiple-Inheritance.runtimeconfig.json
+D:\RKIT\Module-4\Code\Inheritance\Multiple-Inheritance\Multiple-Inheritance\bin\Debug\netcoreapp3.1\Multiple-Inheritance.runtimeconfig.dev.json
+D:\RKIT\Module-4\Code\Inheritance\Multiple-Inheritance\Multiple-Inheritance\bin\Debug\netcoreapp3.1\Multiple-Inheritance.dll
+D:\RKIT\Module-4\Code\Inheritance\Multiple-Inheritance\Multiple-Inheritance\bin\Debug\netcoreapp3.1\Multiple-Inheritance.pdb
+D:\RKIT\Module-4\Code\Inheritance\Multiple-Inheritance\Multiple-Inheritance\obj\Debug\netcoreapp3.1\Multiple-Inheritance.csprojAssemblyReference.cache
+D:\RKIT\Module-4\Code\Inheritance\Multiple-Inheritance\Multiple-Inheritance\obj\Debug\netcoreapp3.1\Multiple-Inheritance.AssemblyInfoInputs.cache
+D:\RKIT\Module-4\Code\Inheritance\Multiple-Inheritance\Multiple-Inheritance\obj\Debug\netcoreapp3.1\Multiple-Inheritance.AssemblyInfo.cs
+D:\RKIT\Module-4\Code\Inheritance\Multiple-Inheritance\Multiple-Inheritance\obj\Debug\netcoreapp3.1\Multiple-Inheritance.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-4\Code\Inheritance\Multiple-Inheritance\Multiple-Inheritance\obj\Debug\netcoreapp3.1\Multiple-Inheritance.dll
+D:\RKIT\Module-4\Code\Inheritance\Multiple-Inheritance\Multiple-Inheritance\obj\Debug\netcoreapp3.1\Multiple-Inheritance.pdb
+D:\RKIT\Module-4\Code\Inheritance\Multiple-Inheritance\Multiple-Inheritance\obj\Debug\netcoreapp3.1\Multiple-Inheritance.genruntimeconfig.cache
