@@ -1,0 +1,7 @@
+D:\RKIT\Module-5\Code\Serialization_Demo\Serialization_Demo\bin\Debug\Serialization_Demo.exe.config
+D:\RKIT\Module-5\Code\Serialization_Demo\Serialization_Demo\bin\Debug\Serialization_Demo.exe
+D:\RKIT\Module-5\Code\Serialization_Demo\Serialization_Demo\bin\Debug\Serialization_Demo.pdb
+D:\RKIT\Module-5\Code\Serialization_Demo\Serialization_Demo\obj\Debug\Serialization_Demo.csprojAssemblyReference.cache
+D:\RKIT\Module-5\Code\Serialization_Demo\Serialization_Demo\obj\Debug\Serialization_Demo.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-5\Code\Serialization_Demo\Serialization_Demo\obj\Debug\Serialization_Demo.exe
+D:\RKIT\Module-5\Code\Serialization_Demo\Serialization_Demo\obj\Debug\Serialization_Demo.pdb
