@@ -1,0 +1,10 @@
+D:\RKIT\Module-5\Code\JsonSerialization\JsonSerialization\bin\Debug\JsonSerialization.exe.config
+D:\RKIT\Module-5\Code\JsonSerialization\JsonSerialization\bin\Debug\JsonSerialization.exe
+D:\RKIT\Module-5\Code\JsonSerialization\JsonSerialization\bin\Debug\JsonSerialization.pdb
+D:\RKIT\Module-5\Code\JsonSerialization\JsonSerialization\bin\Debug\Newtonsoft.Json.dll
+D:\RKIT\Module-5\Code\JsonSerialization\JsonSerialization\bin\Debug\Newtonsoft.Json.xml
+D:\RKIT\Module-5\Code\JsonSerialization\JsonSerialization\obj\Debug\JsonSerialization.csprojAssemblyReference.cache
+D:\RKIT\Module-5\Code\JsonSerialization\JsonSerialization\obj\Debug\JsonSerialization.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-5\Code\JsonSerialization\JsonSerialization\obj\Debug\JsonSerialization.csproj.CopyComplete
+D:\RKIT\Module-5\Code\JsonSerialization\JsonSerialization\obj\Debug\JsonSerialization.exe
+D:\RKIT\Module-5\Code\JsonSerialization\JsonSerialization\obj\Debug\JsonSerialization.pdb
