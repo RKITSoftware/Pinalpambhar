@@ -1,0 +1,7 @@
+D:\RKIT\Module-5\Code\XmlSerialization\XmlSerialization\bin\Debug\XmlSerialization.exe.config
+D:\RKIT\Module-5\Code\XmlSerialization\XmlSerialization\bin\Debug\XmlSerialization.exe
+D:\RKIT\Module-5\Code\XmlSerialization\XmlSerialization\bin\Debug\XmlSerialization.pdb
+D:\RKIT\Module-5\Code\XmlSerialization\XmlSerialization\obj\Debug\XmlSerialization.csprojAssemblyReference.cache
+D:\RKIT\Module-5\Code\XmlSerialization\XmlSerialization\obj\Debug\XmlSerialization.csproj.CoreCompileInputs.cache
+D:\RKIT\Module-5\Code\XmlSerialization\XmlSerialization\obj\Debug\XmlSerialization.exe
+D:\RKIT\Module-5\Code\XmlSerialization\XmlSerialization\obj\Debug\XmlSerialization.pdb
